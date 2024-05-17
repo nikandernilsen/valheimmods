@@ -1,0 +1,4979 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (13.04.2024 15.06.22)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.17.5228416
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 13 plugins to load
+[Error  :   BepInEx] Could not load [MagicHeim 1.3.3] because it is incompatible with: org.bepinex.plugins.valheim_plus
+[Info   :   BepInEx] Loading [Craft From Containers 3.5.1]
+[Info   :   BepInEx] Loading [FloatingItems 1.0.0]
+[Info   :   BepInEx] Loading [Configuration Manager 18.3]
+[Error  :   BepInEx] Could not load [MyFavoriteHoeJVL 1.0.0] because it has missing dependencies: com.jotunn.jotunn
+[Info   :   BepInEx] Loading [Instant Monster Drop 0.6.0]
+[Info   :   BepInEx] Loading [Plant Anywhere 0.0.3]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.13.0]
+[Info   :Valheim Plus] Valheim Plus full version: 0.9.13.0
+[Info   :Valheim Plus] Valheim Plus dll file location: 'E:\Steam\steamapps\common\Valheim\BepInEx\plugins\ValheimPlus.dll'
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   :Valheim Plus] Found config file at: 'E:\Steam\steamapps\common\Valheim\BepInEx\config\valheim_plus.cfg'
+[Info   :Valheim Plus] Loading config...
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedBuildingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedEditingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Armor] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Bed] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Beehive] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Brightness] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Building] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Camera] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Chat] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [CraftFromChest] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Deconstruct] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Demister] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Durability] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [EitrRefinery] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Experience] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Fermenter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FireSource] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FirstPerson] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Food] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FreePlacementRotation] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Furnace] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Game] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GameClock] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Gathering] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GridAlignment] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hotkeys] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hud] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Inventory] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Items] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Kiln] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [LootDrop] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Map] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [MonsterProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Pickable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Player] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [PlayerProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Server] Section is enabled.
+[Info   :Valheim Plus] [Server] Updating serverSyncHotkeys from True to False
+[Info   :Valheim Plus] [Server] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Shields] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Smelter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [SpinningWheel] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Stamina] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StaminaUsage] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StructuralIntegrity] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Tameable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Time] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [ValheimPlus] Section is enabled.
+[Info   :Valheim Plus] [ValheimPlus] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Wagon] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Ward] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Windmill] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [WispSpawner] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Workbench] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] Downloading config from: 'https://github.com/Grantapher/ValheimPlus/releases/download/0.9.13.0/valheim_plus.cfg'
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   :Valheim Plus] ValheimPlus [0.9.13.0] is up to date.
+[Info   :Valheim Plus] ValheimPlus done loading.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [Build Camera 1.6.1]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.13]
+[Info   :   BepInEx] Loading [AlmanacClasses 0.3.5]
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:56:42: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   :   BepInEx] Loading [Server Devcommands 1.79]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] 05/17/2024 19:56:43: Set background loading budget to Low
+
+[Warning: Unity Log] 05/17/2024 19:56:43: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 05/17/2024 19:56:43: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Info   : Unity Log] 05/17/2024 19:56:43: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 05/17/2024 19:56:43: Set background loading budget to Normal
+
+[Info   : Unity Log] 05/17/2024 19:56:47: Set background loading budget to High
+
+[Info   : Unity Log] 05/17/2024 19:57:01: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] 05/17/2024 19:57:02: Missing audio clip in music respawn
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Using environment steamid 892970
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Using steam APPID:892970
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Steam initialized, persona:Fluffylegs
+
+[Info   : Unity Log] 05/17/2024 19:57:02: PlayFab custom ID set to "Steam_76561197991335041"
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Using default prefs
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Valheim version: 0.218.15 (network version 27)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Custom'
+[Info   : Unity Log] Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+[Info   : Unity Log] Graphic mode 'Custom' applied!
+[Info   : Unity Log] 05/17/2024 19:57:02: Worldgenerator version setup:2
+
+[Warning: Unity Log] ServerDevcommands: Initializing commands.
+[Info   : Unity Log] 05/17/2024 19:57:02: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 05/17/2024 19:57:02: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 05/17/2024 19:57:02: Set button "CamZoomOut" to None!
+
+[Warning: Unity Log] 05/17/2024 19:57:02: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 05/17/2024 19:57:02: Set button "CamZoomOut" to None!
+
+[Info   : Unity Log] 05/17/2024 19:57:02: Checking for installed DLCs
+
+[Info   : Unity Log] 05/17/2024 19:57:02: DLC:beta installed:False
+
+[Info   :Valheim Plus] Version text: "Version 0.218.15 (n-27), ValheimPlus 0.9.13.0 (Grantapher Temporary)"
+[Info   : Unity Log] 05/17/2024 19:57:04: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 05/17/2024 19:57:04: Starting music menu
+
+[Info   : Unity Log] 05/17/2024 19:57:05: PlayFab logged in as "Steam_76561197991335041"
+
+[Info   : Unity Log] 05/17/2024 19:57:05: PlayFab local entity ID is 42A820C065979AF8
+
+[Info   : Unity Log] 05/17/2024 19:57:08: show character selection
+
+[Info   : Unity Log] 05/17/2024 19:57:20: OnCharacterStart
+
+[Info   : Unity Log] 05/17/2024 19:57:22: Got dns entries: 1
+
+[Info   : Unity Log] 05/17/2024 19:57:22: Failed to get lobby gameserver
+
+[Info   : Unity Log] 05/17/2024 19:57:23: Added server with name 161.97.152.17:30700 to server list
+
+[Info   : Unity Log] 05/17/2024 19:57:25: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:25: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:25: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:25: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:26: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:26: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:26: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:26: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/17/2024 19:57:29: PlayFab lobby matching search filter 'string_key10 eq '161.97.152.17:30700' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 05/17/2024 19:57:29: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Loading main scene
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Cloud Save: 204 bytes. /serverlist/favorite.new
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam writing file chunks 1 / 1, (204 bytes)
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam Cloud Move: 204 bytes. /serverlist/favorite -> /serverlist/favorite.old
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam writing file chunks 1 / 1, (204 bytes)
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam Cloud Move: 204 bytes. /serverlist/favorite.new -> /serverlist/favorite
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam writing file chunks 1 / 1, (204 bytes)
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Cloud Save: 279 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam writing file chunks 1 / 1, (279 bytes)
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam Cloud Move: 279 bytes. /serverlist/recent -> /serverlist/recent.old
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam writing file chunks 1 / 1, (279 bytes)
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam Cloud Move: 279 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam writing file chunks 1 / 1, (279 bytes)
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Audioman already exist, destroying self
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam initialized, persona:Fluffylegs
+
+[Info   : Unity Log] 05/17/2024 19:57:30: PlayFab custom ID set to "Steam_76561197991335041"
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Using default prefs
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Loading player profile gunnar
+
+[Info   : Unity Log] 05/17/2024 19:57:30: isModded: True
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Zonesystem Awake 3231
+
+[Info   : Unity Log] 05/17/2024 19:57:30: DungeonDB Awake 3231
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Steam initialized, persona:Fluffylegs
+
+[Info   : Unity Log] 05/17/2024 19:57:30: Checking for installed DLCs
+
+[Info   : Unity Log] 05/17/2024 19:57:30: DLC:beta installed:False
+
+[Info   :Server Devcommands] Reloading 1 bind data.
+[Info   : Unity Log] 05/17/2024 19:57:31: Zonesystem Start 3231
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 05/17/2024 19:57:31: DungeonDB Start 3231
+
+[Info   : Unity Log] 05/17/2024 19:57:31: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 05/17/2024 19:57:31: ZNET START
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Connecting to server with Steam-backend 161.97.152.17:30700
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Starting to connect to 161.97.152.17:30700
+
+[Info   :AlmanacClasses] Invoking version check
+[Info   : Unity Log] Sending Valheim Plus version 0.9.13.0 and minimum version 0.9.13.0 to the server.
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 19:57:31: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 05/17/2024 19:57:31: New connection
+
+[Info   :AlmanacClasses] Version check, local: 0.3.5,  remote: 0.3.5
+[Info   :AlmanacClasses] Received same version from server!
+[Info   : Unity Log] Received AlmanacClasses version 0.3.5 and minimum version 0.3.5 from the server.
+[Info   : Unity Log] Received RustyMods.AlmanacClasses PieceManager version 0.3.5 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Valheim Plus version 0.9.13.0 and minimum version 0.9.13.0 from the server.
+[Info   : Unity Log] 05/17/2024 19:57:31: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Connected
+
+[Info   : Unity Log] 05/17/2024 19:57:31: Got connection SteamID 90198305888349199
+
+[Info   : Unity Log] Received 39 configs and 1 custom values from the server for mod AlmanacClasses
+[Info   : Unity Log] Received 6 configs and 0 custom values from the server for mod RustyMods.AlmanacClasses PieceManager
+[Info   : Unity Log] 05/17/2024 19:58:00: Network version check, their:27, mine:27
+
+[Info   : Unity Log] 05/17/2024 19:58:00: Worldgenerator version setup:2
+
+[Info   :Valheim Plus] -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+[Info   : Unity Log] 05/17/2024 19:58:02: client got keys 15
+
+[Info   : Unity Log] 05/17/2024 19:58:02: client got location icons
+
+[Info   : Unity Log] 05/17/2024 19:58:02: Icons:1
+
+[Info   : Unity Log] 05/17/2024 19:58:02: Session auth respons callback
+
+[Info   : Unity Log] 05/17/2024 19:58:09: Generating new world minimap done [6188ms]
+
+[Info   : Unity Log] 05/17/2024 19:58:09: Minimap: unpacking compressed mapData 10961 => 8388934 bytes
+
+[Info   : Unity Log] 05/17/2024 19:58:09: Starting respawn
+
+[Info   :Valheim Plus] Unpatching.
+[Info   :Valheim Plus] Successfully unpatched.
+[Info   :Valheim Plus] ServerSyncsConfig = True
+[Info   :Valheim Plus] ServerSyncsHotkeys = True
+[Info   :Valheim Plus] [AdvancedBuildingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedEditingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Bed] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Beehive] Section is enabled.
+[Info   :Valheim Plus] [Beehive] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Building] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Deconstruct] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Inventory] Section is enabled.
+[Info   :Valheim Plus] [Inventory] Updating playerInventoryRows from 4 to 6
+[Info   :Valheim Plus] [Inventory] Updating woodChestColumns from 5 to 6
+[Info   :Valheim Plus] [Inventory] Updating woodChestRows from 2 to 3
+[Info   :Valheim Plus] [Inventory] Updating personalChestRows from 2 to 4
+[Info   :Valheim Plus] [Inventory] Updating ironChestColumns from 6 to 8
+[Info   :Valheim Plus] [Inventory] Updating karveInventoryColumns from 2 to 8
+[Info   :Valheim Plus] [Inventory] Updating karveInventoryRows from 2 to 3
+[Info   :Valheim Plus] [Inventory] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Items] Section is enabled.
+[Info   :Valheim Plus] [Items] Updating baseItemWeightReduction from 0 to -25
+[Info   :Valheim Plus] [Items] Updating itemStackMultiplier from 1 to 100
+[Info   :Valheim Plus] [Items] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Fermenter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FireSource] Section is enabled.
+[Info   :Valheim Plus] [FireSource] Updating torches from False to True
+[Info   :Valheim Plus] [FireSource] Updating fires from False to True
+[Info   :Valheim Plus] [FireSource] Updating autoFuel from False to True
+[Info   :Valheim Plus] [FireSource] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Food] Section is enabled.
+[Info   :Valheim Plus] [Food] Updating foodDurationMultiplier from 0 to 50
+[Info   :Valheim Plus] [Food] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Smelter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Furnace] Section is enabled.
+[Info   :Valheim Plus] [Furnace] Updating autoDeposit from False to True
+[Info   :Valheim Plus] [Furnace] Updating autoFuel from False to True
+[Info   :Valheim Plus] [Furnace] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hotkeys] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Kiln] Section is enabled.
+[Info   :Valheim Plus] [Kiln] Updating productionSpeed from 15 to 30
+[Info   :Valheim Plus] [Kiln] Updating maximumWood from 25 to 100
+[Info   :Valheim Plus] [Kiln] Updating stopAutoFuelThreshold from 0 to 1
+[Info   :Valheim Plus] [Kiln] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Windmill] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [SpinningWheel] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [EitrRefinery] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Map] Section is enabled.
+[Info   :Valheim Plus] [Map] Updating exploreRadius from 50 to 200
+[Info   :Valheim Plus] [Map] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Player] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Server] Section is enabled.
+[Info   :Valheim Plus] [Server] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Stamina] Section is enabled.
+[Info   :Valheim Plus] [Stamina] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StaminaUsage] Section is enabled.
+[Info   :Valheim Plus] [StaminaUsage] Updating hammer from 0 to -100
+[Info   :Valheim Plus] [StaminaUsage] Updating hoe from 0 to -100
+[Info   :Valheim Plus] [StaminaUsage] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Workbench] Section is enabled.
+[Info   :Valheim Plus] [Workbench] Updating workbenchRange from 20 to 50
+[Info   :Valheim Plus] [Workbench] Updating workbenchAttachmentRange from 5 to 10
+[Info   :Valheim Plus] [Workbench] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Time] Section is enabled.
+[Info   :Valheim Plus] [Time] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Ward] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StructuralIntegrity] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Tameable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hud] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Experience] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Camera] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Game] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Wagon] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Gathering] Section is enabled.
+[Info   :Valheim Plus] [Gathering] Updating wood from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating fineWood from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating coreWood from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating elderBark from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating stone from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating tinOre from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating copperOre from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating ironScrap from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating silverOre from 0 to 100
+[Info   :Valheim Plus] [Gathering] Updating chitin from 0 to 100
+[Info   :Valheim Plus] [Gathering] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Pickable] Section is enabled.
+[Info   :Valheim Plus] [Pickable] Updating edibles from 0 to 100
+[Info   :Valheim Plus] [Pickable] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Durability] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Armor] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FreePlacementRotation] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Shields] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FirstPerson] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GridAlignment] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [CraftFromChest] Section is enabled.
+[Info   :Valheim Plus] [CraftFromChest] Updating ignorePrivateAreaCheck from False to True
+[Info   :Valheim Plus] [CraftFromChest] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [ValheimPlus] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [PlayerProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [MonsterProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GameClock] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Brightness] Section is enabled.
+[Info   :Valheim Plus] [Brightness] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Chat] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [LootDrop] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [WispSpawner] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Demister] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   :Valheim Plus] Successfully synced VPlus configuration from server.
+[Info   : Unity Log] 05/17/2024 19:58:10: tip:$loadscreen_tip05
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Dungeon loaded with 28 rooms in 2,5161 ms.
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Dungeon loaded with 36 rooms in 3,0028 ms.
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Force generating hmap (-1024.00, 0.00, -4672.00)
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 19:58:13: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 19:58:17: Spawned after 8,019994
+
+[Info   : Unity Log] 05/17/2024 19:58:18: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 19:58:18: Minimap: Adding unique location (-250.26, 43.10, 252.01)
+
+[Info   : Unity Log] 05/17/2024 19:58:20: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 19:58:20: Resumed music blackforest at 0
+
+[Info   : Unity Log] 05/17/2024 19:58:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:58:32: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:58:44: Placed piece_chest_wood
+
+[Info   : Unity Log] 05/17/2024 19:58:45: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 19:58:45: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:58:49: Stopped music blackforest at 1286073
+
+[Info   : Unity Log] 05/17/2024 19:58:49: Starting music home
+
+[Info   : Unity Log] 05/17/2024 19:58:49: Resumed music home at 0
+
+[Info   : Unity Log] 05/17/2024 19:58:59: Stopped music home at 453465
+
+[Info   : Unity Log] 05/17/2024 19:58:59: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 19:58:59: Resumed music blackforest at 1286073
+
+[Info   : Unity Log] 05/17/2024 19:59:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:12: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:12: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:17: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:17: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: trying to add $item_wood
+
+[Info   : Unity Log] 05/17/2024 19:59:18: Added ore Wood
+
+[Info   : Unity Log] 05/17/2024 19:59:19: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:19: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:20: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:21: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:22: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:23: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:24: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:25: Added ore RoundLog
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:27: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:28: Failed to find rpc method 44531401
+
+[Info   : Unity Log] 05/17/2024 19:59:29: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:30: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:30: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:31: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:32: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:33: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:34: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Refresh complete 8676  eServerResponded
+
+[Info   : Unity Log] 05/17/2024 19:59:35: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:35: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:36: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:38: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:38: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:39: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:40: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:41: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:42: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:43: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:43: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:43: trying to add $item_roundlog
+
+[Info   : Unity Log] 05/17/2024 19:59:43: Added ore RoundLog
+
+[Info   : Unity Log] 05/17/2024 19:59:44: Stopped music blackforest at 1971916
+
+[Info   : Unity Log] 05/17/2024 19:59:44: Starting music home
+
+[Info   : Unity Log] 05/17/2024 19:59:44: Resumed music home at 453465
+
+[Info   : Unity Log] 05/17/2024 19:59:45: Stopped music home at 13171
+
+[Info   : Unity Log] 05/17/2024 19:59:45: trying to add $item_copperore
+
+[Info   : Unity Log] 05/17/2024 19:59:45: Added ore CopperOre
+
+[Info   : Unity Log] 05/17/2024 19:59:45: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 19:59:45: Resumed music blackforest at 1971916
+
+[Info   : Unity Log] 05/17/2024 19:59:45: trying to add $item_copperore
+
+[Info   : Unity Log] 05/17/2024 19:59:45: Added ore CopperOre
+
+[Warning: Unity Log] 05/17/2024 19:59:45: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:45: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:45: Failed to find rpc method 44531401
+
+[Warning: Unity Log] 05/17/2024 19:59:45: Failed to find rpc method 44531401
+
+[Info   : Unity Log] 05/17/2024 19:59:52: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 19:59:52: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:56: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 19:59:56: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:58: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 19:59:58: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 19:59:59: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 19:59:59: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:01: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:02: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:02: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:04: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:04: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:05: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:06: Stopped music blackforest at 926509
+
+[Info   : Unity Log] 05/17/2024 20:00:06: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:00:06: Resumed music home at 13171
+
+[Info   : Unity Log] 05/17/2024 20:00:07: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:07: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:09: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:09: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:11: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:11: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:14: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:14: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:17: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:17: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:20: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:21: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:00:21: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Stopped music home at 812878
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Resumed music blackforest at 926509
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Item is not in this container
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Item is not in this container
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Item is not in this container
+
+[Info   : Unity Log] 05/17/2024 20:00:24: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   : Unity Log] 05/17/2024 20:00:26: Added ore BlackMetalScrap
+
+[Info   :Valheim Plus] Added 9 ores($item_blackmetalscrap) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:00:29: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:29: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:29: Placed portal_wood
+
+[Info   : Unity Log] 05/17/2024 20:00:29: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:00:30: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:30: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:30: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:30: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:30: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:30: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:00:40: Left click
+
+[Info   : Unity Log] 05/17/2024 20:00:41: Left click
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:00:45: Left click
+
+[Info   : Unity Log] 05/17/2024 20:00:46: Left click
+
+[Info   : Unity Log] 05/17/2024 20:00:48: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:49: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:00:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:00:55: Setting selected recipe 25
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:01:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:01:02: Stopped music blackforest at 1670860
+
+[Info   : Unity Log] 05/17/2024 20:01:02: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:01:02: Resumed music blackforest at 1670860
+
+[Info   : Unity Log] 05/17/2024 20:01:10: Spawned FireFlies x 1
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:01:16: Spawned Skeleton x 2
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:01:27: Spawn time :1,0011 ms
+
+[Info   : Unity Log] 05/17/2024 20:01:31: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:01:33: Spawn time :1,0015 ms
+
+[Info   : Unity Log] 05/17/2024 20:01:36: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:01:38: Spawn time :0 ms
+
+[Info   : Unity Log] 05/17/2024 20:01:39: Spawn time :1,1396 ms
+
+[Info   : Unity Log] 05/17/2024 20:01:40: Activating default element Continue
+
+[Info   : Unity Log] 05/17/2024 20:01:41: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:01:41: Disabling PlayerBase  character_trigger
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:01:52: Placed piece_beehive
+
+[Info   : Unity Log] 05/17/2024 20:01:53: Placed piece_beehive
+
+[Info   : Unity Log] 05/17/2024 20:01:54: Placed piece_beehive
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:01:59: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:01:59: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:01:59: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:01:59: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:01: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:01: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:01: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:01: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:02: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:02: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:02: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:02: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:02: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:02: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:02: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:02: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:03: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:03: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:04: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:04: is current spawnpoint
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:02:14: hit mine rock 70
+
+[Info   : Unity Log] 05/17/2024 20:02:17: hit mine rock 91
+
+[Info   : Unity Log] 05/17/2024 20:02:19: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:02:19: Dungeon loaded with 32 rooms in 1,3925 ms.
+
+[Info   : Unity Log] 05/17/2024 20:02:19: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:02:19: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:02:22: hit mine rock 36
+
+[Info   : Unity Log] 05/17/2024 20:02:23: hit mine rock 120
+
+[Info   : Unity Log] 05/17/2024 20:02:23: hit mine rock 117
+
+[Info   : Unity Log] 05/17/2024 20:02:25: Spawned Greydwarf x 1
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:02:33: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:02:33: Dungeon loaded with 32 rooms in 1,0005 ms.
+
+[Info   : Unity Log] 05/17/2024 20:02:33: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:02:33: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:02:36: Spawned FireFlies x 1
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:02:48: Poison damage: 13,01609 ttl:4,607782 hits:4 dmg perhit:3,254023
+
+[Info   : Unity Log] 05/17/2024 20:02:53: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:02:53: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:02:53: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:02:53: Ignoring 2 colliders
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:02:57: Spawned FireFlies x 1
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:02:59: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:03:00: Spawned Greydwarf x 3
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:03:03: Stopped music blackforest at 5334864
+
+[Info   : Unity Log] 05/17/2024 20:03:03: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:03:03: Resumed music home at 812878
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:03:09: Spawned Greydwarf_Shaman x 1
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:03:13: Available space to current user: 36624441344. Saving is blocked if below: 209951678 bytes. Warnings are given if below: 419903356
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Minimap: compressed mapData 8388934 => 10961 bytes
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Cloud Save: 117286 bytes. /characters/gunnar.fch.new
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Steam writing file chunks 1 / 1, (117286 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Steam Cloud Move: 118239 bytes. /characters/gunnar.fch -> /characters/gunnar.fch.old
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Steam writing file chunks 1 / 1, (118239 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Steam Cloud Move: 117286 bytes. /characters/gunnar.fch.new -> /characters/gunnar.fch
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Steam writing file chunks 1 / 1, (117286 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Considering autobackup. World time: 332,54, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/17/2024 20:03:13: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:03:16: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:03:17: Starting music morning
+
+[Info   : Unity Log] 05/17/2024 20:03:18: Stopped music home at 655737
+
+[Info   :Valheim Plus] Added 1 fuel($item_coal) in $piece_blastfurnace
+[Info   : Unity Log] 05/17/2024 20:03:52: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:03:52: Resumed music blackforest at 5334864
+
+[Info   : Unity Log] 05/17/2024 20:04:05: Update PlayFab entity token
+
+[Info   : Unity Log] 05/17/2024 20:04:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:04:19: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:04:19: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:04:24: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:24: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:04:25: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:04:27: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:04:27: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:04:37: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:04:37: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:04:52: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:04:52: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:01: Stopped music blackforest at 3073593
+
+[Info   : Unity Log] 05/17/2024 20:05:01: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:05:01: Resumed music blackforest at 3073593
+
+[Info   : Unity Log] 05/17/2024 20:05:07: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:05:07: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:05:12: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:05:13: Done fading color
+
+[Info   : Unity Log] 05/17/2024 20:05:17: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:17: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:19: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:19: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:20: Stopped music blackforest at 802502
+
+[Info   : Unity Log] 05/17/2024 20:05:20: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:05:20: Resumed music home at 655737
+
+[Info   : Unity Log] 05/17/2024 20:05:20: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:20: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:21: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:21: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:22: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:22: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:23: Spawned Greyling x 1
+
+[Info   : Unity Log] 05/17/2024 20:05:24: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:24: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:24: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:24: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:30: Stopped music home at 1100735
+
+[Info   : Unity Log] 05/17/2024 20:05:30: Starting music meadows
+
+[Info   : Unity Log] 05/17/2024 20:05:38: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:05:38: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:05:43: Stopped music meadows at 572006
+
+[Info   : Unity Log] 05/17/2024 20:05:43: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:05:43: Resumed music home at 1100735
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Dungeon loaded with 28 rooms in 1,0003 ms.
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Dungeon loaded with 36 rooms in 1,0017 ms.
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Force generating hmap (-1024.00, 0.00, -4672.00)
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:05:44: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:05:49: Stopped music home at 1379211
+
+[Info   : Unity Log] 05/17/2024 20:05:49: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:05:49: Resumed music blackforest at 802502
+
+[Info   : Unity Log] 05/17/2024 20:05:56: Stopped music blackforest at 303878
+
+[Info   : Unity Log] 05/17/2024 20:05:56: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:05:56: Resumed music home at 1379211
+
+[Info   : Unity Log] 05/17/2024 20:05:57: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:57: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:57: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:57: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:58: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:58: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:05:59: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:05:59: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:06: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:06: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:07: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:08: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:08: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:10: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:10: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:19: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:06:21: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:06:21: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:06:21: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:06:22: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:06:22: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:06:25: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:29: Setting selected recipe -1
+
+[Info   : Unity Log] 05/17/2024 20:06:31: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:34: Setting selected recipe 3
+
+[Info   : Unity Log] 05/17/2024 20:06:36: Setting selected recipe 3
+
+[Info   : Unity Log] 05/17/2024 20:06:40: Setting selected recipe 25
+
+[Info   : Unity Log] 05/17/2024 20:06:41: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:43: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:45: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:45: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:47: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:47: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:49: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:49: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:51: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:54: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:54: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:06:57: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:06:57: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:07:03: Stopped music home at 2947526
+
+[Info   : Unity Log] 05/17/2024 20:07:03: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:07:03: Resumed music blackforest at 303878
+
+[Info   : Unity Log] 05/17/2024 20:07:06: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:07:13: Stopped music blackforest at 448761
+
+[Info   : Unity Log] 05/17/2024 20:07:13: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:07:13: Resumed music blackforest at 448761
+
+[Info   : Unity Log] 05/17/2024 20:07:18: Placed piece_spinningwheel
+
+[Info   : Unity Log] 05/17/2024 20:07:18: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:07:44: Stopped music blackforest at 1337817
+
+[Info   : Unity Log] 05/17/2024 20:07:44: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:07:44: Resumed music home at 2947526
+
+[Info   : Unity Log] 05/17/2024 20:07:47: Placed forge_ext4
+
+[Info   : Unity Log] 05/17/2024 20:07:48: Stopped music home at 191923
+
+[Info   : Unity Log] 05/17/2024 20:07:48: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:07:48: Resumed music blackforest at 1337817
+
+[Info   : Unity Log] 05/17/2024 20:07:50: Stopped music blackforest at 73382
+
+[Info   : Unity Log] 05/17/2024 20:07:50: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:07:50: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:07:50: Resumed music home at 191923
+
+[Info   : Unity Log] 05/17/2024 20:07:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:07:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:07:56: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:07:58: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:07:58: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:08:06: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:06: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:06: Stopped music home at 721593
+
+[Info   : Unity Log] 05/17/2024 20:08:06: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:08:06: Resumed music blackforest at 73382
+
+[Info   : Unity Log] 05/17/2024 20:08:07: Placed portal_wood
+
+[Info   : Unity Log] 05/17/2024 20:08:07: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:07: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:08: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:08: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:08: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:08: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:08: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:08: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:08:22: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:08:23: Player 3065924654 wants to open piece_chest   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:08:23: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:08:26: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 20:08:37: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:08:37: Dungeon loaded with 28 rooms in 1,0015 ms.
+
+[Info   : Unity Log] 05/17/2024 20:08:37: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:08:37: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:08:38: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:08:38: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:08:41: Starting music sailing
+
+[Info   : Unity Log] 05/17/2024 20:08:45: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:08:47: Stopped music blackforest at 1793164
+
+[Info   : Unity Log] 05/17/2024 20:10:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:10:32: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:10:54: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:10:56: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:11:04: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:11:28: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 20:11:28: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 05/17/2024 20:11:31: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:11:37: Stopped music sailing at 7482182
+
+[Info   : Unity Log] 05/17/2024 20:11:37: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:11:37: Resumed music blackforest at 1793164
+
+[Info   : Unity Log] 05/17/2024 20:12:01: Poison damage: 36,98867 ttl:14,59939 hits:14 dmg perhit:2,642048
+
+[Info   : Unity Log] 05/17/2024 20:12:50: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:12:52: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:12:52: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:12:56: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:12:56: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Deer x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Fish5 x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Blob x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Stopped music blackforest at 5547896
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Starting music swamp
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Fish5 x 3
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:02: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:04: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:13:05: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:06: Placed piece_workbench
+
+[Info   : Unity Log] 05/17/2024 20:13:06: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:07: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:07: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Placed portal_wood
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:08: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:13:18: Setting selected recipe 3
+
+[Info   : Unity Log] 05/17/2024 20:13:20: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:13:20: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Dungeon loaded with 28 rooms in 1,0002 ms.
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Dungeon loaded with 36 rooms in 0 ms.
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:13:25: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:13:26: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:13:26: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:13:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:13:32: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:13:32: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:13:32: Stopped music swamp at 1349107
+
+[Info   : Unity Log] 05/17/2024 20:13:32: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:13:32: Resumed music blackforest at 5547896
+
+[Info   : Unity Log] 05/17/2024 20:13:34: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:13:34: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:13:35: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:13:35: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:13:35: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:13:35: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:13:35: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:13:35: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:13:37: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:13:37: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:13:44: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:13:44: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:13:56: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:13:56: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:13:59: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:01: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:02: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:02: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:05: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:06: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:06: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Stopped music blackforest at 1620983
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:14:09: Resumed music home at 721593
+
+[Info   : Unity Log] 05/17/2024 20:14:11: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:11: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:13: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:13: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:16: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:16: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:16: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:18: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:18: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:20: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:14:20: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:23: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:14:26: Stopped music home at 720652
+
+[Info   : Unity Log] 05/17/2024 20:14:26: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:14:26: Resumed music blackforest at 1620983
+
+[Info   : Unity Log] 05/17/2024 20:14:26: Stopped music blackforest at 940
+
+[Info   : Unity Log] 05/17/2024 20:14:26: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:14:26: Resumed music home at 720652
+
+[Info   : Unity Log] 05/17/2024 20:14:30: Stopped music home at 175929
+
+[Info   : Unity Log] 05/17/2024 20:14:30: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:14:30: Resumed music blackforest at 940
+
+[Info   : Unity Log] 05/17/2024 20:14:35: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:14:35: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:14:35: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:14:35: Ignoring 2 colliders
+
+[Info   : Unity Log] 05/17/2024 20:14:40: Stopped music blackforest at 448761
+
+[Info   : Unity Log] 05/17/2024 20:14:40: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:14:40: Resumed music home at 175929
+
+[Info   : Unity Log] 05/17/2024 20:14:41: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:14:49: Starting music evening
+
+[Info   : Unity Log] 05/17/2024 20:14:50: Stopped music home at 432767
+
+[Info   : Unity Log] 05/17/2024 20:14:50: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/17/2024 20:14:50: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 05/17/2024 20:14:50: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:14:50: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:14:50: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:14:52: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:14:54: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:14:57: Available space to current user: 36624424960. Saving is blocked if below: 209949772 bytes. Warnings are given if below: 419899544
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Minimap: compressed mapData 8388934 => 10979 bytes
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Cloud Save: 116754 bytes. /characters/gunnar.fch.new
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Steam writing file chunks 1 / 1, (116754 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Steam Cloud Move: 117286 bytes. /characters/gunnar.fch -> /characters/gunnar.fch.old
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Steam writing file chunks 1 / 1, (117286 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Steam Cloud Move: 116754 bytes. /characters/gunnar.fch.new -> /characters/gunnar.fch
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Steam writing file chunks 1 / 1, (116754 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Considering autobackup. World time: 1036,36, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/17/2024 20:14:57: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:15:05: Starting music morning
+
+[Info   : Unity Log] 05/17/2024 20:15:06: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:15:06: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:09: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:09: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:10: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:10: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:10: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:10: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:10: trying to add $item_ironscrap
+
+[Info   : Unity Log] 05/17/2024 20:15:10: Added ore IronScrap
+
+[Info   : Unity Log] 05/17/2024 20:15:16: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:15:16: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:26: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:30: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:15:31: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:15:31: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:15:32: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:15:32: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:15:32: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:15:38: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:39: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:40: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:15:40: Resumed music home at 432767
+
+[Info   : Unity Log] 05/17/2024 20:15:44: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:47: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:48: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:54: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:15:55: drop all 1  1
+
+[Info   : Unity Log] 05/17/2024 20:15:57: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:16:03: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:16:03: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:16:05: Stopped music home at 1113907
+
+[Info   : Unity Log] 05/17/2024 20:16:05: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:16:05: Resumed music blackforest at 448761
+
+[Info   : Unity Log] 05/17/2024 20:16:07: Stopped music blackforest at 520261
+
+[Info   : Unity Log] 05/17/2024 20:16:07: Starting music swamp
+
+[Info   : Unity Log] 05/17/2024 20:16:07: Resumed music swamp at 1349107
+
+[Info   : Unity Log] 05/17/2024 20:16:08: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:16:08: Force generating hmap (128.00, 0.00, -5184.00)
+
+[Info   : Unity Log] 05/17/2024 20:16:08: Force generating hmap (128.00, 0.00, -5120.00)
+
+[Info   : Unity Log] 05/17/2024 20:16:15: Poison damage: 25,6319 ttl:6,062796 hits:6 dmg perhit:4,271984
+
+[Info   : Unity Log] 05/17/2024 20:16:17: Poison damage: 25,46745 ttl:6,046528 hits:6 dmg perhit:4,244575
+
+[Info   : Unity Log] 05/17/2024 20:16:18: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/17/2024 20:16:22: Poison damage: 25,32571 ttl:6,032465 hits:6 dmg perhit:4,220952
+
+[Info   : Unity Log] 05/17/2024 20:16:22: Poison damage: 32,02705 ttl:6,659245 hits:6 dmg perhit:5,337841
+
+[Info   : Unity Log] 05/17/2024 20:16:25: Poison damage: 15,66141 ttl:4,95745 hits:4 dmg perhit:3,915352
+
+[Info   : Unity Log] 05/17/2024 20:16:43: HIT Weakspot:WEAKSPOT_HEAD
+
+[Info   : Unity Log] 05/17/2024 20:16:55: client got keys 15
+
+[Info   : Unity Log] 05/17/2024 20:16:59: Poison damage: 15,77634 ttl:4,971945 hits:4 dmg perhit:3,944086
+
+[Info   : Unity Log] 05/17/2024 20:17:01: Poison damage: 16,58105 ttl:5,071983 hits:5 dmg perhit:3,316209
+
+[Info   : Unity Log] 05/17/2024 20:17:02: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:17:09: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:17:09: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:17:14: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:17:14: Dungeon loaded with 28 rooms in 1,001 ms.
+
+[Info   : Unity Log] 05/17/2024 20:17:14: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:17:14: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:17:14: Dungeon loaded with 36 rooms in 0 ms.
+
+[Info   : Unity Log] 05/17/2024 20:17:14: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:17:15: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:17:15: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:17:15: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:17:15: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:17:20: Random event set:foresttrolls
+
+[Info   : Unity Log] 05/17/2024 20:17:20: Starting music CombatEventL2
+
+[Info   : Unity Log] 05/17/2024 20:17:21: Stopped music swamp at 4643788
+
+[Info   : Unity Log] 05/17/2024 20:17:25: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:17:25: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:17:27: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:17:49: client got keys 15
+
+[Info   : Unity Log] 05/17/2024 20:18:03: client got keys 15
+
+[Info   : Unity Log] 05/17/2024 20:18:06: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:18:17: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:18:18: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:18:18: Dungeon loaded with 32 rooms in 0 ms.
+
+[Info   : Unity Log] 05/17/2024 20:18:18: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:18:18: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:18:29: client got keys 15
+
+[Info   : Unity Log] 05/17/2024 20:18:36: HIT Weakspot:WEAKSPOT_HEAD
+
+[Info   : Unity Log] 05/17/2024 20:18:38: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:18:45: Stopped music CombatEventL2 at 3674764
+
+[Info   : Unity Log] 05/17/2024 20:18:45: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:18:45: Resumed music blackforest at 520261
+
+[Info   : Unity Log] 05/17/2024 20:18:45: client got keys 15
+
+[Info   : Unity Log] 05/17/2024 20:18:47: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+
+[Info   : Unity Log] 05/17/2024 20:18:47: hit mine rock 0
+
+[Info   : Unity Log] 05/17/2024 20:18:47: Suport time 0,4882813
+
+[Info   : Unity Log] 05/17/2024 20:18:47: hit mine rock 3
+
+[Info   : Unity Log] 05/17/2024 20:18:47: Suport time 0
+
+[Info   : Unity Log] 05/17/2024 20:18:47: hit mine rock 2
+
+[Info   : Unity Log] 05/17/2024 20:18:47: Suport time 0
+
+[Info   : Unity Log] 05/17/2024 20:18:50: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:18:58: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:00: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:19:00: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:03: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:19:03: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:04: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:19:04: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:07: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:19:07: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:10: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:19:11: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:19:11: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:19:11: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:19:11: Setting selected recipe 14
+
+[Info   : Unity Log] 05/17/2024 20:19:12: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:13: Stopped music blackforest at 1257656
+
+[Info   : Unity Log] 05/17/2024 20:19:13: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:19:13: Resumed music home at 1113907
+
+[Info   : Unity Log] 05/17/2024 20:19:14: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:17: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:19: Setting selected recipe 3
+
+[Info   : Unity Log] 05/17/2024 20:19:22: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:19:25: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:19:26: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:19:27: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:19:30: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:19:31: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:32: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:34: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:37: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:19:39: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:40: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:19:41: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:19:41: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:19:43: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:20:04: Stopped music home at 2252005
+
+[Info   : Unity Log] 05/17/2024 20:20:04: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:20:04: Resumed music blackforest at 1257656
+
+[Info   : Unity Log] 05/17/2024 20:20:08: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:20:08: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:20:08: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:20:08: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:20:08: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:20:08: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:20:09: Stopped music blackforest at 181574
+
+[Info   : Unity Log] 05/17/2024 20:20:09: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:20:09: Resumed music home at 2252005
+
+[Info   : Unity Log] 05/17/2024 20:20:11: Stopped music home at 83731
+
+[Info   : Unity Log] 05/17/2024 20:20:11: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:20:11: Resumed music blackforest at 181574
+
+[Info   : Unity Log] 05/17/2024 20:20:14: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:20:14: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:20:17: Stopped music blackforest at 270950
+
+[Info   : Unity Log] 05/17/2024 20:20:17: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:20:17: Resumed music blackforest at 270950
+
+[Info   : Unity Log] 05/17/2024 20:20:24: Setting selected recipe -1
+
+[Info   : Unity Log] 05/17/2024 20:20:26: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:20:29: Stopped music blackforest at 535315
+
+[Info   : Unity Log] 05/17/2024 20:20:29: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:20:29: Resumed music home at 83731
+
+[Info   : Unity Log] 05/17/2024 20:20:30: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:20:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:20:32: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:20:35: Stopped music home at 267187
+
+[Info   : Unity Log] 05/17/2024 20:20:35: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:20:35: Resumed music blackforest at 535315
+
+[Info   : Unity Log] 05/17/2024 20:20:39: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:20:39: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:20:56: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:21:43: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:21:46: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:21:46: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:21:46: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:21:46: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:21:47: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:21:47: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:21:55: Stopped music blackforest at 3545875
+
+[Info   : Unity Log] 05/17/2024 20:21:56: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:21:56: Resumed music home at 267187
+
+[Info   : Unity Log] 05/17/2024 20:21:56: Stopped music home at 14111
+
+[Info   : Unity Log] 05/17/2024 20:21:56: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:21:56: Resumed music blackforest at 3545875
+
+[Info   : Unity Log] 05/17/2024 20:22:08: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:08: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:09: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:09: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:09: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:09: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:10: Stopped music blackforest at 610579
+
+[Info   : Unity Log] 05/17/2024 20:22:10: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:22:10: Resumed music home at 14111
+
+[Info   : Unity Log] 05/17/2024 20:22:12: Stopped music home at 106310
+
+[Info   : Unity Log] 05/17/2024 20:22:12: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:22:12: Resumed music blackforest at 610579
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Stopped music blackforest at 247430
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Resumed music blackforest at 247430
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:18: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Stopped music blackforest at 15993
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:22:18: Resumed music home at 106310
+
+[Info   : Unity Log] 05/17/2024 20:22:19: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:19: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:19: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:19: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:19: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:22:19: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:22:24: Stopped music home at 249311
+
+[Info   : Unity Log] 05/17/2024 20:22:24: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:22:24: Resumed music blackforest at 15993
+
+[Info   : Unity Log] 05/17/2024 20:23:07: Spawned Deer x 1
+
+[Info   : Unity Log] 05/17/2024 20:23:07: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 05/17/2024 20:23:08: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:23:08: Dungeon loaded with 28 rooms in 0 ms.
+
+[Info   : Unity Log] 05/17/2024 20:23:08: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:23:08: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:23:09: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:23:09: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:23:13: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:23:13: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:23:13: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:23:13: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:23:19: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:23:22: Stopped music blackforest at 2562739
+
+[Info   : Unity Log] 05/17/2024 20:23:22: Update PlayFab entity token
+
+[Info   : Unity Log] 05/17/2024 20:23:22: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:23:22: Resumed music blackforest at 2562739
+
+[Info   : Unity Log] 05/17/2024 20:23:39: Stopped music blackforest at 732883
+
+[Info   : Unity Log] 05/17/2024 20:23:39: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:23:39: Resumed music home at 249311
+
+[Info   : Unity Log] 05/17/2024 20:23:40: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:23:40: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:23:40: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:23:40: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:23:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:23:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:23:47: Stopped music home at 349036
+
+[Info   : Unity Log] 05/17/2024 20:23:47: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:23:47: Resumed music blackforest at 732883
+
+[Info   : Unity Log] 05/17/2024 20:24:54: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:24:54: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:24:55: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:24:55: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:24:55: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:24:55: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:24:55: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:24:55: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:04: Stopped music blackforest at 3405695
+
+[Info   : Unity Log] 05/17/2024 20:25:04: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:25:04: Resumed music blackforest at 3405695
+
+[Info   : Unity Log] 05/17/2024 20:25:22: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:25:22: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:23: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:25:23: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:23: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:25:23: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:23: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:25:23: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:24: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:25:24: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:26: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:25:26: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:25:27: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:25:28: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:25:30: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:25:30: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:25:33: Stopped music blackforest at 1257849
+
+[Info   : Unity Log] 05/17/2024 20:25:33: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:25:33: Resumed music home at 349036
+
+[Info   : Unity Log] 05/17/2024 20:25:36: Placed jute_carpet
+
+[Info   : Unity Log] 05/17/2024 20:25:37: Disabling WaterVolume  WaterVolume
+
+[Info   : Unity Log] 05/17/2024 20:25:37: Disabling WaterSurface  Water
+
+[Info   : Unity Log] 05/17/2024 20:25:45: Placed piece_bathtub
+
+[Info   : Unity Log] 05/17/2024 20:25:51: Placed piece_throne01
+
+[Info   : Unity Log] 05/17/2024 20:25:53: Placed piece_throne02
+
+[Info   : Unity Log] 05/17/2024 20:25:57: Placed rug_wolf
+
+[Info   : Unity Log] 05/17/2024 20:26:01: Stopped music home at 1261612
+
+[Info   : Unity Log] 05/17/2024 20:26:01: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:26:01: Resumed music home at 1261612
+
+[Info   : Unity Log] 05/17/2024 20:26:17: Stopped music home at 674553
+
+[Info   : Unity Log] 05/17/2024 20:26:17: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:26:17: Resumed music blackforest at 1257849
+
+[Info   : Unity Log] 05/17/2024 20:26:29: Placed piece_throne02
+
+[Info   : Unity Log] 05/17/2024 20:26:43: Stopped music blackforest at 1159813
+
+[Info   : Unity Log] 05/17/2024 20:26:43: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:26:43: Resumed music home at 674553
+
+[Info   : Unity Log] 05/17/2024 20:26:53: Placed piece_chair03
+
+[Info   : Unity Log] 05/17/2024 20:27:00: Placed piece_chair
+
+[Info   : Unity Log] 05/17/2024 20:27:23: Stopped music home at 1756473
+
+[Info   : Unity Log] 05/17/2024 20:27:23: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:27:23: Resumed music home at 1756473
+
+[Info   : Unity Log] 05/17/2024 20:27:25: Stopped music home at 91257
+
+[Info   : Unity Log] 05/17/2024 20:27:25: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:27:25: Resumed music blackforest at 1159813
+
+[Info   : Unity Log] 05/17/2024 20:27:31: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:27:31: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:27:31: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:27:31: Ignoring 2 colliders
+
+[Info   : Unity Log] 05/17/2024 20:27:35: Stopped music blackforest at 444057
+
+[Info   : Unity Log] 05/17/2024 20:27:35: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:27:35: Resumed music home at 91257
+
+[Info   : Unity Log] 05/17/2024 20:27:37: Unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:27:42: Starting to grow plant with rotation: (0.00000, 0.65845, 0.00000, -0.75263)
+
+[Info   : Unity Log] 05/17/2024 20:27:42: Starting to grow plant with rotation: (0.00000, 0.57241, 0.00000, -0.81997)
+
+[Info   : Unity Log] 05/17/2024 20:27:42: Starting to grow plant with rotation: (0.00000, 0.95348, 0.00000, -0.30146)
+
+[Info   : Unity Log] 05/17/2024 20:27:42: Starting to grow plant with rotation: (0.00000, 0.77306, 0.00000, 0.63433)
+
+[Info   : Unity Log] 05/17/2024 20:27:42: Starting to grow plant with rotation: (0.00000, 0.66846, 0.00000, -0.74375)
+
+[Info   : Unity Log] 05/17/2024 20:27:42: Starting to grow plant with rotation: (0.00000, 0.98286, 0.00000, -0.18435)
+
+[Info   : Unity Log] 05/17/2024 20:27:45: Starting music evening
+
+[Info   : Unity Log] 05/17/2024 20:27:45: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/17/2024 20:27:45: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:27:45: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:27:45: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:27:45: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:27:46: Stopped music home at 452524
+
+[Info   : Unity Log] 05/17/2024 20:27:51: Spawned Skeleton x 2
+
+[Info   : Unity Log] 05/17/2024 20:27:51: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.73513, 0.00000, -0.67792)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.34498, 0.00000, -0.93861)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.74144, 0.00000, 0.67102)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, -0.05105, 0.00000, 0.99870)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.30025, 0.00000, 0.95386)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.39854, 0.00000, 0.91715)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.39782, 0.00000, -0.91746)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.58869, 0.00000, -0.80836)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.22796, 0.00000, 0.97367)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.89065, 0.00000, -0.45468)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.59024, 0.00000, -0.80723)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.41896, 0.00000, -0.90800)
+
+[Info   : Unity Log] 05/17/2024 20:27:52: Starting to grow plant with rotation: (0.00000, 0.20327, 0.00000, -0.97912)
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:27:53: Available space to current user: 36624424960. Saving is blocked if below: 209948708 bytes. Warnings are given if below: 419897416
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Minimap: compressed mapData 8388934 => 10975 bytes
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Cloud Save: 116784 bytes. /characters/gunnar.fch.new
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Steam writing file chunks 1 / 1, (116784 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Steam Cloud Move: 116754 bytes. /characters/gunnar.fch -> /characters/gunnar.fch.old
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Steam writing file chunks 1 / 1, (116754 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Steam Cloud Move: 116784 bytes. /characters/gunnar.fch.new -> /characters/gunnar.fch
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Steam writing file chunks 1 / 1, (116784 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Considering autobackup. World time: 1812,3, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Time to overwrite our last autobackup
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Replacing backup file: gunnar_backup_auto-20221218114803
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Saving backup at: gunnar_backup_auto-20240517202753
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Cloud Copy: 116784 bytes. characters/gunnar.fch -> characters/gunnar_backup_auto-20240517202753.fch
+
+[Info   : Unity Log] 05/17/2024 20:27:53: Steam writing file chunks 1 / 1, (116784 bytes)
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:28:01: Starting music morning
+
+[Info   : Unity Log] 05/17/2024 20:28:03: Starting to grow plant with rotation: (0.00000, 0.27553, 0.00000, -0.96129)
+
+[Info   : Unity Log] 05/17/2024 20:28:04: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:11: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:14: Starting to grow plant with rotation: (0.00000, 0.32563, 0.00000, 0.94550)
+
+[Info   : Unity Log] 05/17/2024 20:28:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:18: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:19: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:21: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:28:21: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:28:26: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:28:26: Force generating hmap (128.00, 0.00, -5184.00)
+
+[Info   : Unity Log] 05/17/2024 20:28:26: Force generating hmap (128.00, 0.00, -5120.00)
+
+[Info   : Unity Log] 05/17/2024 20:28:36: Starting music swamp
+
+[Info   : Unity Log] 05/17/2024 20:28:36: Spawned Blob x 1
+
+[Info   : Unity Log] 05/17/2024 20:28:36: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:28:36: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:28:39: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:44: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:28:50: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:28:50: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Dungeon loaded with 28 rooms in 1,0002 ms.
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Dungeon loaded with 36 rooms in 1,0015 ms.
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:28:55: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:28:56: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:28:56: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:29:01: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:29:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:29:03: Stopped music swamp at 1178822
+
+[Info   : Unity Log] 05/17/2024 20:29:03: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:29:03: Resumed music blackforest at 444057
+
+[Info   : Unity Log] 05/17/2024 20:29:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:29:07: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:29:07: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:29:12: Force generating hmap (128.00, 0.00, -5184.00)
+
+[Info   : Unity Log] 05/17/2024 20:29:12: Force generating hmap (128.00, 0.00, -5120.00)
+
+[Info   : Unity Log] 05/17/2024 20:29:20: Stopped music blackforest at 783686
+
+[Info   : Unity Log] 05/17/2024 20:29:20: Starting music swamp
+
+[Info   : Unity Log] 05/17/2024 20:29:20: Resumed music swamp at 1178822
+
+[Info   : Unity Log] 05/17/2024 20:29:44: Spawned Blob x 1
+
+[Info   : Unity Log] 05/17/2024 20:29:46: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:29:46: Dungeon loaded with 59 rooms in 1,0009 ms.
+
+[Info   : Unity Log] 05/17/2024 20:29:46: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:29:47: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:30:02: Stopped music swamp at 3023730
+
+[Info   : Unity Log] 05/17/2024 20:30:02: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:30:02: Resumed music blackforest at 783686
+
+[Info   : Unity Log] 05/17/2024 20:30:03: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:30:39: Stopped music blackforest at 1604063
+
+[Info   : Unity Log] 05/17/2024 20:30:39: Starting music mountain
+
+[Info   : Unity Log] 05/17/2024 20:31:09: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:31:09: Dungeon loaded with 32 rooms in 1,0014 ms.
+
+[Info   : Unity Log] 05/17/2024 20:31:09: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:31:09: Spawning dungeon
+
+[Info   : Unity Log] Column: 1
+[Info   : Unity Log] Lines: 3737
+[Info   : Unity Log] Translation1: When first I awoke in Valheim, I pleaded with Odin to show himself to me. Where was he? Why had he abandoned me?
+
+For many moons I braved storms and fierce beasts in search of answers. Where were the Gods? Was this to be my reward? Where was Odin?
+
+But now I know. When I pulled up the greydwarfs like weeds from a field or stamped out the surtlings like embers, I did Odin's work. And when I matched my strength against a great wyrm and smote off its head with one blow, I felt Odin's joy within me, deep and proud.
+
+We are Odin's hands, each one of us, and our worth in life is to work his will.
+[Info   : Unity Log] Translation2: When first I awoke in Valheim, I pleaded with Odin to show himself to me. Where was he? Why had he abandoned me?
+
+For many moons I braved storms and fierce beasts in search of answers. Where were the Gods? Was this to be my reward? Where was Odin?
+
+But now I know. When I pulled up the greydwarfs like weeds from a field or stamped out the surtlings like embers, I did Odin's work. And when I matched my strength against a great wyrm and smote off its head with one blow, I felt Odin's joy within me, deep and proud.
+
+We are Odin's hands, each one of us, and our worth in life is to work his will.
+[Info   : Unity Log] Column: 1
+[Info   : Unity Log] Lines: 21
+[Info   : Unity Log] Column: 1
+[Info   : Unity Log] Lines: 3
+[Info   : Unity Log] Column: 1
+[Info   : Unity Log] Lines: 1
+[Info   : Unity Log] Column: 1
+[Info   : Unity Log] Lines: 20
+[Info   : Unity Log] Column: 1
+[Info   : Unity Log] Lines: 2
+[Info   : Unity Log] Translation3: When first I awoke in Valheim, I pleaded with Odin to show himself to me. Where was he? Why had he abandoned me?
+
+For many moons I braved storms and fierce beasts in search of answers. Where were the Gods? Was this to be my reward? Where was Odin?
+
+But now I know. When I pulled up the greydwarfs like weeds from a field or stamped out the surtlings like embers, I did Odin's work. And when I matched my strength against a great wyrm and smote off its head with one blow, I felt Odin's joy within me, deep and proud.
+
+We are Odin's hands, each one of us, and our worth in life is to work his will.
+[Info   : Unity Log] 05/17/2024 20:31:18: Show text :When first I awoke in Valheim, I pleaded with Odin to show himself to me. Where was he? Why had he abandoned me?
+
+For many moons I braved storms and fierce beasts in search of answers. Where were the Gods? Was this to be my reward? Where was Odin?
+
+But now I know. When I pulled up the greydwarfs like weeds from a field or stamped out the surtlings like embers, I did Odin's work. And when I matched my strength against a great wyrm and smote off its head with one blow, I felt Odin's joy within me, deep and proud.
+
+We are Odin's hands, each one of us, and our worth in life is to work his will.
+
+[Info   : Unity Log] 05/17/2024 20:31:42: hit mine rock 92
+
+[Info   : Unity Log] 05/17/2024 20:31:43: hit mine rock 92
+
+[Info   : Unity Log] 05/17/2024 20:31:43: hit mine rock 69
+
+[Info   : Unity Log] 05/17/2024 20:31:43: hit mine rock 27
+
+[Info   : Unity Log] 05/17/2024 20:31:43: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:31:58: hit mine rock 92
+
+[Info   : Unity Log] 05/17/2024 20:31:58: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:32:03: hit mine rock 99
+
+[Info   : Unity Log] 05/17/2024 20:32:10: Valid True
+
+[Info   : Unity Log] 05/17/2024 20:32:10: On death False
+
+[Info   : Unity Log] 05/17/2024 20:32:32: hit mine rock 12
+
+[Info   : Unity Log] 05/17/2024 20:33:00: Valid True
+
+[Info   : Unity Log] 05/17/2024 20:33:00: On death False
+
+[Info   : Unity Log] 05/17/2024 20:33:22: Valid True
+
+[Info   : Unity Log] 05/17/2024 20:33:22: On death False
+
+[Info   : Unity Log] 05/17/2024 20:33:38: hit mine rock 38
+
+[Info   : Unity Log] 05/17/2024 20:33:38: Suport time 2,197266
+
+[Info   : Unity Log] 05/17/2024 20:33:39: hit mine rock 36
+
+[Info   : Unity Log] 05/17/2024 20:33:39: Suport time 1,953125
+
+[Info   : Unity Log] 05/17/2024 20:33:43: hit mine rock 40
+
+[Info   : Unity Log] 05/17/2024 20:33:43: hit mine rock 63
+
+[Info   : Unity Log] 05/17/2024 20:33:47: hit mine rock 75
+
+[Info   : Unity Log] 05/17/2024 20:33:47: hit mine rock 74
+
+[Info   : Unity Log] 05/17/2024 20:33:48: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:33:54: hit mine rock 65
+
+[Info   : Unity Log] 05/17/2024 20:33:56: hit mine rock 74
+
+[Info   : Unity Log] 05/17/2024 20:33:57: hit mine rock 74
+
+[Info   : Unity Log] 05/17/2024 20:33:57: Suport time 1,953125
+
+[Info   : Unity Log] 05/17/2024 20:33:59: hit mine rock 75
+
+[Info   : Unity Log] 05/17/2024 20:33:59: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:03: hit mine rock 77
+
+[Info   : Unity Log] 05/17/2024 20:34:03: hit mine rock 79
+
+[Info   : Unity Log] 05/17/2024 20:34:03: hit mine rock 78
+
+[Info   : Unity Log] 05/17/2024 20:34:04: hit mine rock 77
+
+[Info   : Unity Log] 05/17/2024 20:34:04: hit mine rock 79
+
+[Info   : Unity Log] 05/17/2024 20:34:04: hit mine rock 78
+
+[Info   : Unity Log] 05/17/2024 20:34:06: hit mine rock 77
+
+[Info   : Unity Log] 05/17/2024 20:34:06: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:06: hit mine rock 79
+
+[Info   : Unity Log] 05/17/2024 20:34:06: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:06: hit mine rock 78
+
+[Info   : Unity Log] 05/17/2024 20:34:06: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:07: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:34:09: Drop item $item_stone
+
+[Info   : Unity Log] 05/17/2024 20:34:09: drop all 78  78
+
+[Info   : Unity Log] 05/17/2024 20:34:09: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:16: hit mine rock 32
+
+[Info   : Unity Log] 05/17/2024 20:34:16: hit mine rock 60
+
+[Info   : Unity Log] 05/17/2024 20:34:16: hit mine rock 76
+
+[Info   : Unity Log] 05/17/2024 20:34:17: hit mine rock 32
+
+[Info   : Unity Log] 05/17/2024 20:34:18: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:18: hit mine rock 60
+
+[Info   : Unity Log] 05/17/2024 20:34:18: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:19: hit mine rock 34
+
+[Info   : Unity Log] 05/17/2024 20:34:19: hit mine rock 61
+
+[Info   : Unity Log] 05/17/2024 20:34:19: hit mine rock 76
+
+[Info   : Unity Log] 05/17/2024 20:34:20: hit mine rock 34
+
+[Info   : Unity Log] 05/17/2024 20:34:20: hit mine rock 61
+
+[Info   : Unity Log] 05/17/2024 20:34:20: hit mine rock 76
+
+[Info   : Unity Log] 05/17/2024 20:34:20: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:22: hit mine rock 34
+
+[Info   : Unity Log] 05/17/2024 20:34:22: Suport time 1,953125
+
+[Info   : Unity Log] 05/17/2024 20:34:22: hit mine rock 61
+
+[Info   : Unity Log] 05/17/2024 20:34:22: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:22: hit mine rock 33
+
+[Info   : Unity Log] 05/17/2024 20:34:24: hit mine rock 63
+
+[Info   : Unity Log] 05/17/2024 20:34:25: Suport time 1,953125
+
+[Info   : Unity Log] 05/17/2024 20:34:25: hit mine rock 39
+
+[Info   : Unity Log] 05/17/2024 20:34:26: hit mine rock 62
+
+[Info   : Unity Log] 05/17/2024 20:34:26: hit mine rock 37
+
+[Info   : Unity Log] 05/17/2024 20:34:26: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:34:28: Drop item $item_stone
+
+[Info   : Unity Log] 05/17/2024 20:34:28: drop all 28  28
+
+[Info   : Unity Log] 05/17/2024 20:34:28: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:29: hit mine rock 40
+
+[Info   : Unity Log] 05/17/2024 20:34:29: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:29: hit mine rock 62
+
+[Info   : Unity Log] 05/17/2024 20:34:29: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:30: hit mine rock 37
+
+[Info   : Unity Log] 05/17/2024 20:34:30: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:32: hit mine rock 42
+
+[Info   : Unity Log] 05/17/2024 20:34:32: hit mine rock 39
+
+[Info   : Unity Log] 05/17/2024 20:34:32: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:34: hit mine rock 42
+
+[Info   : Unity Log] 05/17/2024 20:34:34: Suport time 1,708984
+
+[Info   : Unity Log] 05/17/2024 20:34:34: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:34:34: Dungeon loaded with 27 rooms in 0 ms.
+
+[Info   : Unity Log] 05/17/2024 20:34:34: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:34:34: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:34:36: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:34:38: Drop item $item_stone
+
+[Info   : Unity Log] 05/17/2024 20:34:38: drop all 9  9
+
+[Info   : Unity Log] 05/17/2024 20:34:38: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:42: Drop item $item_wood
+
+[Info   : Unity Log] 05/17/2024 20:34:42: drop all 4  4
+
+[Info   : Unity Log] 05/17/2024 20:34:42: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:43: hit mine rock 80
+
+[Info   : Unity Log] 05/17/2024 20:34:43: hit mine rock 81
+
+[Info   : Unity Log] 05/17/2024 20:34:45: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:34:45: Dungeon loaded with 27 rooms in 1,001 ms.
+
+[Info   : Unity Log] 05/17/2024 20:34:45: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:34:45: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:34:46: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:48: Drop item $item_wolf_meat
+
+[Info   : Unity Log] 05/17/2024 20:34:48: drop all 2  2
+
+[Info   : Unity Log] 05/17/2024 20:34:48: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:51: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:53: Drop item $item_necktailgrilled
+
+[Info   : Unity Log] 05/17/2024 20:34:53: drop all 2  2
+
+[Info   : Unity Log] 05/17/2024 20:34:53: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:34:56: Drop item $item_obsidian
+
+[Info   : Unity Log] 05/17/2024 20:34:56: drop all 13  13
+
+[Info   : Unity Log] 05/17/2024 20:34:56: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:35:15: Spawned Hatchling x 1
+
+[Info   : Unity Log] 05/17/2024 20:35:15: Spawned Hatchling x 1
+
+[Info   : Unity Log] 05/17/2024 20:35:15: Spawned Wolf x 2
+
+[Info   : Unity Log] 05/17/2024 20:35:23: Spawned StoneGolem x 1
+
+[Info   : Unity Log] 05/17/2024 20:35:33: Spawned Wolf x 1
+
+[Info   : Unity Log] 05/17/2024 20:35:33: Spawned Wolf x 2
+
+[Info   : Unity Log] 05/17/2024 20:36:11: Spawned Deer x 2
+
+[Info   : Unity Log] 05/17/2024 20:36:11: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 05/17/2024 20:36:24: Setting location music as played
+
+[Info   : Unity Log] 05/17/2024 20:36:28: Stopped music mountain at 4743197
+
+[Info   : Unity Log] 05/17/2024 20:36:28: Starting music mountain
+
+[Info   : Unity Log] 05/17/2024 20:36:28: Resumed music mountain at 4743197
+
+[Info   : Unity Log] 05/17/2024 20:36:28: Stopped music mountain at 4757308
+
+[Info   : Unity Log] 05/17/2024 20:36:28: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:36:28: Resumed music blackforest at 1604063
+
+[Info   : Unity Log] 05/17/2024 20:36:36: Spawned Troll x 1
+
+[Info   : Unity Log] 05/17/2024 20:36:36: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:36:36: Spawned Blob x 1
+
+[Info   : Unity Log] 05/17/2024 20:36:36: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:01: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/17/2024 20:37:01: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:01: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:01: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:02: Stopped music blackforest at 3108402
+
+[Info   : Unity Log] 05/17/2024 20:37:02: Starting music swamp
+
+[Info   : Unity Log] 05/17/2024 20:37:03: Resumed music swamp at 3023730
+
+[Info   : Unity Log] 05/17/2024 20:37:11: Spawned Seagal x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:11: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/17/2024 20:37:11: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 05/17/2024 20:37:11: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:30: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/17/2024 20:37:33: Stopped music swamp at 4364369
+
+[Info   : Unity Log] 05/17/2024 20:37:33: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:37:33: Resumed music blackforest at 3108402
+
+[Info   : Unity Log] 05/17/2024 20:37:48: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/17/2024 20:37:48: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:37:50: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:37:53: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:37:54: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:37:55: Player 3065924654 wants to open piece_chest   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:37:56: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:37:58: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:38:23: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:38:27: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:38:28: Player 3065924654 wants to open piece_chest   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:38:28: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:38:32: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 20:38:37: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 20:38:39: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 20:39:01: Starting music sailing
+
+[Info   : Unity Log] 05/17/2024 20:39:04: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 20:39:07: Stopped music blackforest at 7262033
+
+[Info   : Unity Log] 05/17/2024 20:39:54: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:39:54: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:39:54: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:39:55: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:39:59: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:40:00: Stopped music sailing at 2313427
+
+[Info   : Unity Log] 05/17/2024 20:40:00: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:40:52: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:41:01: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:41:08: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:41:10: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 20:41:24: Starting music sailing
+
+[Info   : Unity Log] 05/17/2024 20:41:24: Resumed music sailing at 2313427
+
+[Info   : Unity Log] 05/17/2024 20:42:23: Spawned Fish7 x 2
+
+[Info   : Unity Log] 05/17/2024 20:42:34: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:42:34: Dungeon loaded with 36 rooms in 1,0008 ms.
+
+[Info   : Unity Log] 05/17/2024 20:42:34: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:42:34: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:42:38: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 20:42:41: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:42:47: Stopped music sailing at 5975020
+
+[Info   : Unity Log] 05/17/2024 20:42:47: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:42:47: Resumed music blackforest at 7262033
+
+[Info   : Unity Log] 05/17/2024 20:42:50: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:42:50: Dungeon loaded with 28 rooms in 1,5033 ms.
+
+[Info   : Unity Log] 05/17/2024 20:42:50: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:42:50: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:42:50: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:42:51: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:42:53: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:42:59: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:03: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:03: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:04: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:04: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:06: Stopped music blackforest at 862713
+
+[Info   : Unity Log] 05/17/2024 20:43:06: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:43:07: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:07: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:08: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:12: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:13: Stopped music home at 283180
+
+[Info   : Unity Log] 05/17/2024 20:43:13: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:43:13: Resumed music blackforest at 862713
+
+[Info   : Unity Log] 05/17/2024 20:43:13: Stopped music blackforest at 0
+
+[Info   : Unity Log] 05/17/2024 20:43:13: Starting music home
+
+[Info   : Unity Log] 05/17/2024 20:43:13: Resumed music home at 283180
+
+[Info   : Unity Log] 05/17/2024 20:43:22: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:22: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:24: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:24: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:26: Update PlayFab entity token
+
+[Info   : Unity Log] 05/17/2024 20:43:29: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:29: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:30: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:32: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:32: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:33: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:33: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:37: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:37: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:37: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:39: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:39: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:40: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:40: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:42: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:42: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:44: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:44: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:45: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:45: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:47: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:47: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:49: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:43:49: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:43:54: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:00: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:03: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:05: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:12: Stopped music home at 2603676
+
+[Info   : Unity Log] 05/17/2024 20:44:12: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:44:12: Resumed music blackforest at 0
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:13: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:14: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:16: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:16: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:22: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:24: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:24: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:24: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:24: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:25: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:25: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:25: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:25: Im still nto the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:25: Im finally the owner
+
+[Info   : Unity Log] 05/17/2024 20:44:37: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:44:37: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:44:47: Stopped music blackforest at 1521273
+
+[Info   : Unity Log] 05/17/2024 20:44:47: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:44:47: Resumed music blackforest at 1521273
+
+[Info   : Unity Log] 05/17/2024 20:44:51: Placed sapling_barley
+
+[Info   : Unity Log] 05/17/2024 20:44:52: Placed sapling_barley
+
+[Info   : Unity Log] 05/17/2024 20:44:53: Placed sapling_barley
+
+[Info   : Unity Log] 05/17/2024 20:44:53: Placed sapling_barley
+
+[Info   : Unity Log] 05/17/2024 20:44:54: Placed sapling_barley
+
+[Info   : Unity Log] 05/17/2024 20:44:55: Placed sapling_barley
+
+[Info   : Unity Log] 05/17/2024 20:44:56: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:44:57: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:44:57: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:44:58: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:44:58: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:44:59: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:44:59: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:00: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:00: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:01: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:01: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:02: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:05: Placed cultivate_v2
+
+[Info   : Unity Log] 05/17/2024 20:45:05: Placed cultivate_v2
+
+[Info   : Unity Log] 05/17/2024 20:45:06: Placed cultivate_v2
+
+[Info   : Unity Log] 05/17/2024 20:45:06: Placed cultivate_v2
+
+[Info   : Unity Log] 05/17/2024 20:45:08: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:09: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:09: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:09: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:10: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:11: Placed sapling_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:18: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:18: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:18: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:18: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:19: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:20: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:21: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:21: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:21: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:21: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:21: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:21: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:27: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:45:27: Dungeon loaded with 28 rooms in 1,0006 ms.
+
+[Info   : Unity Log] 05/17/2024 20:45:27: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:45:27: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:45:27: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:45:27: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:45:38: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:39: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:39: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:39: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:41: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:42: Placed piece_spinningwheel
+
+[Info   : Unity Log] 05/17/2024 20:45:42: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:42: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:42: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:45:43: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:43: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:43: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:44: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:45: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: trying to add $item_flax
+
+[Info   : Unity Log] 05/17/2024 20:45:46: Added ore Flax
+
+[Info   : Unity Log] 05/17/2024 20:45:47: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:45:52: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:45:57: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:45:57: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:45:58: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:45:58: Player 3065924654 wants to open piece_chest   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:45:58: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:46:03: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:46:05: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:46:15: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:46:15: Dungeon loaded with 28 rooms in 1,0016 ms.
+
+[Info   : Unity Log] 05/17/2024 20:46:15: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:46:15: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:46:15: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:46:15: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:46:20: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:46:23: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:23: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:23: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:23: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:23: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:23: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:24: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:24: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:24: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:24: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:24: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:24: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:24: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:24: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:24: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:24: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:24: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:24: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:25: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:25: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:46:25: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:25: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:46:26: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:46:26: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:46:29: Stopped music blackforest at 4496083
+
+[Info   : Unity Log] 05/17/2024 20:46:29: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:46:29: Resumed music blackforest at 4496083
+
+[Info   : Unity Log] 05/17/2024 20:46:36: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:46:36: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:46:41: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:46:43: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:46:47: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:46:47: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:46:48: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:46:48: Player 3065924654 wants to open piece_chest   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:46:48: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:46:52: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 20:46:59: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:46:59: Dungeon loaded with 28 rooms in 1,0011 ms.
+
+[Info   : Unity Log] 05/17/2024 20:46:59: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:46:59: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:46:59: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:46:59: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:47:01: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:47:01: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:47:10: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:47:11: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:47:11: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:47:13: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:47:13: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:47:15: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:47:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:47:16: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:47:16: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:47:22: Stopped music blackforest at 2337887
+
+[Info   : Unity Log] 05/17/2024 20:47:22: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:47:22: Resumed music blackforest at 2337887
+
+[Info   : Unity Log] 05/17/2024 20:47:29: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:47:29: Dungeon loaded with 32 rooms in 1,0014 ms.
+
+[Info   : Unity Log] 05/17/2024 20:47:29: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:47:29: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:47:32: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:48:24: Spawned Deathsquito x 1
+
+[Info   : Unity Log] 05/17/2024 20:48:46: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:46: Dungeon loaded with 16 rooms in 1,4962 ms.
+
+[Info   : Unity Log] 05/17/2024 20:48:46: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:48:46: Stopped music blackforest at 3721804
+
+[Info   : Unity Log] 05/17/2024 20:48:46: Starting music plains
+
+[Info   : Unity Log] 05/17/2024 20:48:46: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:47: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:48:47: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:48:47: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Dungeon loaded with 36 rooms in 1,2444 ms.
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Dungeon loaded with 32 rooms in 1,0015 ms.
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:48:52: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:54: Starting music evening
+
+[Info   : Unity Log] 05/17/2024 20:48:54: Stopped music plains at 365971
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Dungeon loaded with 16 rooms in 0 ms.
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:48:56: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:49:20: Setting selected recipe 1
+
+[Info   : Unity Log] 05/17/2024 20:49:40: Starting music plains
+
+[Info   : Unity Log] 05/17/2024 20:49:40: Resumed music plains at 365971
+
+[Info   : Unity Log] 05/17/2024 20:49:43: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:49:46: Spawned Goblin x 3
+
+[Info   : Unity Log] 05/17/2024 20:50:01: Spawned Skeleton x 1
+
+[Info   : Unity Log] 05/17/2024 20:50:07: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:50:08: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+
+[Info   : Unity Log] 05/17/2024 20:50:09: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:50:25: Rel vel 1,983171
+
+[Info   : Unity Log] 05/17/2024 20:50:28: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/17/2024 20:50:28: Spawned Deathsquito x 1
+
+[Info   : Unity Log] 05/17/2024 20:50:28: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:50:28: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:50:28: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Dungeon loaded with 36 rooms in 1,0005 ms.
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Dungeon loaded with 32 rooms in 1,108 ms.
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:50:29: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:50:31: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:50:31: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:50:31: Setting saddle:False
+
+[Info   : Unity Log] 05/17/2024 20:50:37: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:50:49: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:50:52: Setting selected recipe 2
+
+[Info   : Unity Log] 05/17/2024 20:51:01: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:01: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:01: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:01: Spawned Skeleton x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:01: Spawned Goblin x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:01: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:12: Stopped music plains at 4056729
+
+[Info   : Unity Log] 05/17/2024 20:51:12: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:51:12: Resumed music blackforest at 3721804
+
+[Info   : Unity Log] 05/17/2024 20:51:14: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:15: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:51:15: Dungeon loaded with 28 rooms in 1,0004 ms.
+
+[Info   : Unity Log] 05/17/2024 20:51:15: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:51:15: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:51:30: Spawned FireFlies x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:33: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 05/17/2024 20:51:39: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:39: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:39: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:39: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:39: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:39: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:40: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:40: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:40: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:41: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:41: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:42: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:42: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:43: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:43: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:43: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:43: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:43: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:43: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:43: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:43: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:43: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:43: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:43: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:43: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:43: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:43: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:43: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:44: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:44: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:44: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:44: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:44: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:44: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:44: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:44: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:44: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:44: Ignoring 2 colliders
+
+[Info   : Unity Log] 05/17/2024 20:51:44: Is mine
+
+[Info   : Unity Log] 05/17/2024 20:51:44: is current spawnpoint
+
+[Info   : Unity Log] 05/17/2024 20:51:44: exporeusre check 1  True
+
+[Info   : Unity Log] 05/17/2024 20:51:49: Unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:51:54: Stopped music blackforest at 1829855
+
+[Info   : Unity Log] 05/17/2024 20:51:54: Starting music home
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:52:05: Available space to current user: 36624330752. Saving is blocked if below: 209948768 bytes. Warnings are given if below: 419897536
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Minimap: compressed mapData 8388934 => 11021 bytes
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Cloud Save: 117228 bytes. /characters/gunnar.fch.new
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Steam writing file chunks 1 / 1, (117228 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Steam Cloud Move: 116784 bytes. /characters/gunnar.fch -> /characters/gunnar.fch.old
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Steam writing file chunks 1 / 1, (116784 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Steam Cloud Move: 117228 bytes. /characters/gunnar.fch.new -> /characters/gunnar.fch
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Steam writing file chunks 1 / 1, (117228 bytes)
+
+[Info   : Unity Log] 05/17/2024 20:52:05: Considering autobackup. World time: 3264,08, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/17/2024 20:52:05: No autobackup needed yet...
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/17/2024 20:52:11: Starting music morning
+
+[Info   : Unity Log] 05/17/2024 20:52:11: Stopped music home at 729119
+
+[Info   : Unity Log] 05/17/2024 20:52:14: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:15: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:52:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:21: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:21: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:21: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:21: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:21: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:21: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:21: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:21: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:21: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:21: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:22: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:22: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:22: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:22: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:22: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:22: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:22: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:22: Added ore SilverOre
+
+[Info   : Unity Log] 05/17/2024 20:52:22: trying to add $item_silverore
+
+[Info   : Unity Log] 05/17/2024 20:52:22: Added ore SilverOre
+
+[Warning: Unity Log] 05/17/2024 20:52:28: Failed to find rpc method -2140177757
+
+[Warning: Unity Log] 05/17/2024 20:52:28: Failed to find rpc method -2140177757
+
+[Warning: Unity Log] 05/17/2024 20:52:28: Failed to find rpc method -2140177757
+
+[Warning: Unity Log] 05/17/2024 20:52:28: Failed to find rpc method -2140177757
+
+[Info   : Unity Log] 05/17/2024 20:52:30: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:52:30: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:34: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:52:34: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:37: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:52:37: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:41: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:52:41: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:44: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:52:44: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:52:44: Resumed music blackforest at 1829855
+
+[Info   : Unity Log] 05/17/2024 20:52:45: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:52:51: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:52:51: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:08: Spawn time :0 ms
+
+[Info   : Unity Log] 05/17/2024 20:53:08: Activating default element Continue
+
+[Info   : Unity Log] 05/17/2024 20:53:10: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:10: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:15: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:53:19: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:19: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:19: Placed portal_wood
+
+[Info   : Unity Log] 05/17/2024 20:53:19: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:19: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:20: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:20: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:20: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:20: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:20: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:20: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:53:24: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:53:30: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:53:30: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:53:35: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:53:43: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:53:44: Stopped music blackforest at 2628595
+
+[Info   : Unity Log] 05/17/2024 20:53:44: Starting music swamp
+
+[Info   : Unity Log] 05/17/2024 20:53:44: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:54:00: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:54:08: Teleportation TRIGGER
+
+[Info   : Unity Log] 05/17/2024 20:54:08: Teleporting Gunnar
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Dungeon loaded with 28 rooms in 1,0098 ms.
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Dungeon loaded with 36 rooms in 1,0004 ms.
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Force generating hmap (-1024.00, 0.00, -4672.00)
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:54:14: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:54:21: Stopped music swamp at 1620057
+
+[Info   : Unity Log] 05/17/2024 20:54:21: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 20:54:21: Resumed music blackforest at 2628595
+
+[Info   : Unity Log] 05/17/2024 20:55:28: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:55:31: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:55:31: Disabling PlayerBase  character_trigger
+
+[Warning: Unity Log] 05/17/2024 20:55:45: Failed to find rpc method 44531401
+
+[Info   : Unity Log] 05/17/2024 20:55:47: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:55:48: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:55:48: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:55:50: Player 3065924654 wants to open piece_chest_wood(Clone)   im: 3065924654
+
+[Info   : Unity Log] 05/17/2024 20:55:50: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 20:56:03: Player onboard, total onboard 1
+
+[Info   : Unity Log] 05/17/2024 20:56:04: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:56:04: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 05/17/2024 20:56:11: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 20:56:27: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 05/17/2024 20:56:29: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 20:56:29: Dungeon loaded with 28 rooms in 1,0136 ms.
+
+[Info   : Unity Log] 05/17/2024 20:56:29: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 20:56:29: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 20:56:32: Starting music sailing
+
+[Info   : Unity Log] 05/17/2024 20:56:38: Stopped music blackforest at 8676998
+
+[Info   : Unity Log] 05/17/2024 20:57:19: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 20:57:19: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 20:57:19: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 20:57:19: Spawned Fish12 x 5
+
+[Info   : Unity Log] 05/17/2024 20:57:19: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 20:57:31: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 20:57:31: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 20:57:31: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 20:57:31: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 20:57:31: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 20:57:31: Spawned Fish12 x 5
+
+[Info   : Unity Log] 05/17/2024 20:57:41: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/17/2024 20:57:42: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 20:57:42: Spawned Fish5 x 5
+
+[Info   : Unity Log] 05/17/2024 20:57:42: Spawned Fish5 x 5
+
+[Info   : Unity Log] 05/17/2024 20:57:42: Spawned Fish12 x 1
+
+[Info   : Unity Log] 05/17/2024 20:57:54: Spawned Seagal x 1
+
+[Info   : Unity Log] 05/17/2024 20:57:54: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Deer x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Seagal x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Fish1 x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Fish8 x 7
+
+[Info   : Unity Log] 05/17/2024 20:58:05: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:07: Spawned Seagal x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:07: Spawned Fish1 x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:17: Spawned Seagal x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:17: Spawned Fish2 x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:19: Spawned Fish5 x 7
+
+[Info   : Unity Log] 05/17/2024 20:58:19: Spawned Fish5 x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:28: Spawned Deer x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:28: Spawned Greydwarf x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Seagal x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Fish6 x 4
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:37: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Fish1 x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Fish1 x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Blob x 2
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:38: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:41: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 20:58:44: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 20:58:47: Spawned Fish6 x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:47: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:47: Spawned Skeleton x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:47: Spawned Skeleton x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:56: Spawned Fish6 x 3
+
+[Info   : Unity Log] 05/17/2024 20:58:56: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:56: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:56: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:56: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:58:56: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:06: Spawned Fish6 x 4
+
+[Info   : Unity Log] 05/17/2024 20:59:06: Spawned Blob x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:06: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Skeleton x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Blob x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:15: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Fish6 x 3
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Fish7 x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Draugr x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:18: Spawned Leech x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:32: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 20:59:32: Spawned Fish8 x 6
+
+[Info   : Unity Log] 05/17/2024 20:59:32: Spawned Fish8 x 4
+
+[Info   : Unity Log] 05/17/2024 20:59:32: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 20:59:32: Spawned Fish12 x 4
+
+[Info   : Unity Log] 05/17/2024 20:59:32: Spawned Fish12 x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:44: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 20:59:57: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 20:59:57: Spawned Fish12 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:00: Setting selected recipe 0
+
+[Info   : Unity Log] 05/17/2024 21:00:08: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:00:08: Spawned Fish8 x 4
+
+[Info   : Unity Log] 05/17/2024 21:00:08: Spawned Fish8 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:08: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:00:08: Spawned Fish12 x 4
+
+[Info   : Unity Log] 05/17/2024 21:00:08: Spawned Fish12 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:10: SIZE -1260
+
+[Info   : Unity Log] 05/17/2024 21:00:19: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:19: Spawned Fish8 x 4
+
+[Info   : Unity Log] 05/17/2024 21:00:19: Spawned Fish12 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:23: Spawned Fish8 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:30: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:30: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:00:30: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish7 x 4
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish8 x 4
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish12 x 4
+
+[Info   : Unity Log] 05/17/2024 21:00:42: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:00:53: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 21:00:53: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:01:16: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 21:01:16: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 21:01:28: Spawned Fish7 x 1
+
+[Info   : Unity Log] 05/17/2024 21:01:28: Spawned Fish9 x 5
+
+[Info   : Unity Log] 05/17/2024 21:01:28: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 21:01:28: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:01:28: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 21:01:39: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:01:39: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 21:01:39: Spawned Fish8 x 4
+
+[Info   : Unity Log] 05/17/2024 21:01:39: Spawned Fish8 x 5
+
+[Info   : Unity Log] 05/17/2024 21:01:39: Spawned Fish8 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:04: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:04: Spawned Fish8 x 5
+
+[Info   : Unity Log] 05/17/2024 21:02:04: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:04: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:02:11: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:11: Spawned Fish8 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:13: Update PlayFab entity token
+
+[Info   : Unity Log] 05/17/2024 21:02:20: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 21:02:21: Spawned Fish8 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:21: Spawned Fish9 x 5
+
+[Info   : Unity Log] 05/17/2024 21:02:21: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:22: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 21:02:28: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:28: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:28: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:02:28: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:36: Spawned Fish8 x 5
+
+[Info   : Unity Log] 05/17/2024 21:02:36: Spawned Fish12 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:36: Spawned Hare x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:38: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 21:02:43: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 21:02:49: Spawned Fish9 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:49: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:02:49: Spawned Hare x 0
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Spawned Fish8 x 3
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Spawned Fish8 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Spawned Fish12 x 1
+
+[Info   : Unity Log] 05/17/2024 21:02:58: Spawned Hare x 1
+
+[Info   : Unity Log] 05/17/2024 21:03:00: Force generating hmap (-2368.00, 0.00, -5888.00)
+
+[Info   : Unity Log] 05/17/2024 21:03:00: Doodad controlls set VikingShip(Clone)
+
+[Info   : Unity Log] 05/17/2024 21:03:10: Spawned Fish8 x 4
+
+[Info   : Unity Log] 05/17/2024 21:03:12: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:12: Spawned Fish9 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:26: Spawned Fish3 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:26: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:26: Spawned Fish8 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:26: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:26: Spawned Fish12 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:27: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 21:03:27: Dungeon loaded with 54 rooms in 1,0002 ms.
+
+[Info   : Unity Log] 05/17/2024 21:03:27: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 21:03:27: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 21:03:34: Spawned Fish3 x 1
+
+[Info   : Unity Log] 05/17/2024 21:03:47: Spawned Fish5 x 3
+
+[Info   : Unity Log] 05/17/2024 21:03:47: Spawned Fish5 x 5
+
+[Info   : Unity Log] 05/17/2024 21:03:47: Spawned Fish5 x 2
+
+[Info   : Unity Log] 05/17/2024 21:03:47: Spawned Fish9 x 5
+
+[Info   : Unity Log] 05/17/2024 21:03:47: Spawned Fish12 x 4
+
+[Info   : Unity Log] 05/17/2024 21:03:47: Spawned Hare x 1
+
+[Info   : Unity Log] 05/17/2024 21:03:58: Spawned Fish12 x 4
+
+[Info   : Unity Log] 05/17/2024 21:04:01: Force generating hmap (-2560.00, 0.00, -5632.00)
+
+[Info   : Unity Log] 05/17/2024 21:04:02: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 21:04:02: Spawned Fish7 x 3
+
+[Info   : Unity Log] 05/17/2024 21:04:05: Left click
+
+[Info   : Unity Log] 05/17/2024 21:04:16: Stopped music sailing at 8130709
+
+[Info   : Unity Log] 05/17/2024 21:04:16: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 21:04:26: Starting music sailing
+
+[Info   : Unity Log] 05/17/2024 21:04:29: Spawned Fish7 x 1
+
+[Info   : Unity Log] 05/17/2024 21:04:31: Loading dungeon
+
+[Info   : Unity Log] 05/17/2024 21:04:31: Dungeon loaded with 19 rooms in 1,0007 ms.
+
+[Info   : Unity Log] 05/17/2024 21:04:31: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 05/17/2024 21:04:31: Spawning dungeon
+
+[Info   : Unity Log] 05/17/2024 21:04:32: Stopped music blackforest at 673612
+
+[Info   : Unity Log] 05/17/2024 21:04:32: Resumed music sailing at 8130709
+
+[Info   : Unity Log] 05/17/2024 21:04:38: Stop doodad controlls
+
+[Info   : Unity Log] 05/17/2024 21:04:45: Stopped music sailing at 8733761
+
+[Info   : Unity Log] 05/17/2024 21:04:45: Starting music blackforest
+
+[Info   : Unity Log] 05/17/2024 21:04:45: Resumed music blackforest at 673612
+
+[Info   : Unity Log] 05/17/2024 21:04:53: Stopped music blackforest at 1009477
+
+[Info   : Unity Log] 05/17/2024 21:04:53: Starting music plains
+
+[Info   : Unity Log] 05/17/2024 21:05:09: Spawned Fish2 x 1
+
+[Info   : Unity Log] 05/17/2024 21:05:09: Spawned Fish5 x 2
+
+[Info   : Unity Log] 05/17/2024 21:05:09: Spawned Goblin x 1
+
+[Info   : Unity Log] 05/17/2024 21:06:50: Spawned Deer x 1
+
+[Info   : Unity Log] 05/17/2024 21:07:09: Player over board, players left 0
+
+[Info   : Unity Log] 05/17/2024 21:07:39: Player onboard, total onboard 1
+

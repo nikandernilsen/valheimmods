@@ -1,0 +1,9 @@
+{
+  "name": "PlantAnywhere",
+  "version_number": "0.0.3",
+  "website_url": "",
+  "description": "This mod allows you to ignore biomes and plant things anywhere.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.602"
+  ]
+}
